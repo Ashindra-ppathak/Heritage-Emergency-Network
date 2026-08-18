@@ -1,0 +1,36 @@
+{
+  "issue_types": [
+    "Structural Damage",
+    "Water Damage",
+    "Fire Damage",
+    "Vandalism",
+    "Illegal Construction",
+    "Encroachment",
+    "Neglect",
+    "Pollution",
+    "Natural Disaster",
+    "Theft",
+    "Abandonment",
+    "Tradition at Risk",
+    "Craft Decline",
+    "Other"
+  ],
+  "heritage_types": [
+    "Monument",
+    "Temple / Religious Site",
+    "Fort",
+    "Stepwell",
+    "Archaeological Site",
+    "Traditional Craft",
+    "Folk Tradition",
+    "Festival / Cultural Practice",
+    "Historical Structure",
+    "Other"
+  ],
+  "intangible_types": [
+    "Traditional Craft",
+    "Folk Tradition",
+    "Festival / Cultural Practice"
+  ],
+  "severity_levels": ["Low", "Medium", "High", "Critical"]
+}

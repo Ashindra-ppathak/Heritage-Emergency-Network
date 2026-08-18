@@ -1,0 +1,20 @@
+{
+  "states": [
+    "Andhra Pradesh", "Assam", "Bihar", "Chhattisgarh", "Goa", "Gujarat",
+    "Haryana", "Himachal Pradesh", "Jharkhand", "Karnataka", "Kerala",
+    "Madhya Pradesh", "Maharashtra", "Odisha", "Punjab", "Rajasthan",
+    "Tamil Nadu", "Telangana", "Uttar Pradesh", "Uttarakhand", "West Bengal"
+  ],
+  "sample_heritage_sites": [
+    {"name": "Historic Stepwell", "state": "Gujarat", "type": "Stepwell"},
+    {"name": "Old Fort Wall", "state": "Rajasthan", "type": "Fort"},
+    {"name": "Traditional Handloom Craft", "state": "Chhattisgarh", "type": "Traditional Craft"},
+    {"name": "Temple Sculpture Site", "state": "Odisha", "type": "Temple / Religious Site"},
+    {"name": "Historic Street Architecture", "state": "West Bengal", "type": "Historical Structure"},
+    {"name": "Ancient Baoli Complex", "state": "Madhya Pradesh", "type": "Stepwell"},
+    {"name": "Rock-Cut Cave Shrine", "state": "Maharashtra", "type": "Archaeological Site"},
+    {"name": "Traditional Puppetry Art", "state": "Rajasthan", "type": "Folk Tradition"},
+    {"name": "Village Harvest Festival", "state": "Punjab", "type": "Festival / Cultural Practice"},
+    {"name": "Colonial-Era Clock Tower", "state": "Tamil Nadu", "type": "Historical Structure"}
+  ]
+}

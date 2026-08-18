@@ -1,0 +1,68 @@
+{
+  "base_risk_by_issue": {
+    "Structural Damage": 30,
+    "Water Damage": 25,
+    "Fire Damage": 40,
+    "Vandalism": 25,
+    "Illegal Construction": 30,
+    "Encroachment": 30,
+    "Neglect": 15,
+    "Pollution": 15,
+    "Natural Disaster": 35,
+    "Theft": 20,
+    "Abandonment": 15,
+    "Tradition at Risk": 20,
+    "Craft Decline": 20,
+    "Other": 10
+  },
+  "heritage_type_modifier": {
+    "Monument": 15,
+    "Temple / Religious Site": 12,
+    "Fort": 15,
+    "Stepwell": 12,
+    "Archaeological Site": 15,
+    "Historical Structure": 10,
+    "Traditional Craft": 8,
+    "Folk Tradition": 8,
+    "Festival / Cultural Practice": 6,
+    "Other": 5
+  },
+  "severity_modifier": {
+    "Low": 0,
+    "Medium": 8,
+    "High": 16,
+    "Critical": 24
+  },
+  "keyword_boosts": {
+    "critical": 10,
+    "urgent": 10,
+    "collapse": 15,
+    "crack": 8,
+    "cracked": 8,
+    "fire": 12,
+    "flood": 10,
+    "demolish": 15,
+    "illegal": 8,
+    "irreversible": 12,
+    "vanishing": 8,
+    "dying": 8,
+    "last": 5,
+    "only remaining": 10,
+    "no practitioners": 12,
+    "declining": 6
+  },
+  "intangible_keyword_boosts": {
+    "declining practitioners": 12,
+    "no younger practitioners": 14,
+    "lack of documentation": 8,
+    "community displacement": 10,
+    "commercialization": 6
+  },
+  "repeated_report_bonus": 10,
+  "thresholds": {
+    "LOW": [0, 34],
+    "MEDIUM": [35, 59],
+    "HIGH": [60, 79],
+    "CRITICAL": [80, 100]
+  }
+}

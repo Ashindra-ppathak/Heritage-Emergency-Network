@@ -1,0 +1,40 @@
+{
+  "organizations": [
+    {
+      "name": "Heritage Conservation Cell",
+      "type": "Conservation Authority",
+      "handles": ["Structural Damage", "Water Damage", "Fire Damage", "Natural Disaster"]
+    },
+    {
+      "name": "Archaeological Authority (Prototype)",
+      "type": "Archaeological Body",
+      "handles": ["Structural Damage", "Theft", "Vandalism", "Illegal Construction"]
+    },
+    {
+      "name": "Local Municipal Body",
+      "type": "Municipal Authority",
+      "handles": ["Encroachment", "Pollution", "Illegal Construction", "Abandonment"]
+    },
+    {
+      "name": "State Culture Department",
+      "type": "Government Culture Body",
+      "handles": ["Tradition at Risk", "Craft Decline", "Neglect"]
+    },
+    {
+      "name": "Heritage NGO Network",
+      "type": "Non-Governmental Organization",
+      "handles": ["Craft Decline", "Tradition at Risk", "Neglect", "Abandonment"]
+    },
+    {
+      "name": "Independent Conservation Expert",
+      "type": "Expert Consultant",
+      "handles": ["Structural Damage", "Vandalism", "Other"]
+    },
+    {
+      "name": "Local District Administration",
+      "type": "District Authority",
+      "handles": ["Encroachment", "Illegal Construction", "Theft", "Pollution"]
+    }
+  ],
+  "disclaimer": "All organizations listed are PROTOTYPE / DEMO entities for simulation purposes only. No real government or institutional integration exists in this prototype."
+}
